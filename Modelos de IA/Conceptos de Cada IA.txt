@@ -1,0 +1,7 @@
+Este es mi proyecto personal de IAs en el juego de Starcraft II.
+Estoy haciendo varios modelos de diferentes IAs para ver como van contra los bots que estan en el mismo juego y eventualmente vere si puedo poner a pelear mis propias IAs :D
+Aqui esta el objetivo de cada IA:
+Vinc3nt: IA Terran Activa Agresiva que se encarga en superproducir("outproduce" pero no hay traduccion :P) al oponente mientras aplica presion con pequeños ejercitos que consisten
+en Marines y Thors
+V3ctor: IA Terran Activa Defensiva que se encarga de hacer un boom economico mientras se defiende de ataques inminentes y al final ataca con todo lo que tiene (Tanques y Thors)
+V1ktor: IA Protoss Proactiva  que puede variar en su estrategia dependiendo de lo que tenga el enemigo
